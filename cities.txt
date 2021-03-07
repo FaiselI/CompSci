@@ -1,0 +1,7 @@
+﻿Beijing
+Cairo
+London
+Nairobi
+New York City
+Sydney
+Tokyo
